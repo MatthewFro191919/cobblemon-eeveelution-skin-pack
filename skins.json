@@ -1,0 +1,74 @@
+{
+  "geometry": "skinpacks/skins.json",
+  "skins": [
+	{
+      "localization_name": "eevee",
+      "geometry":
+      "geometry.humanoid.customSlim",
+      "texture": "eevee.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "sylveon",
+      "geometry":
+      "geometry.humanoid.customSlim",
+      "texture": "sylveon.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "leafeon",
+      "geometry":
+      "geometry.humanoid.customSlim",
+      "texture": "leafeon.png",
+      "type": "free"
+    },
+   {
+      "localization_name": "glaceon",
+      "geometry":
+      "geometry.humanoid.customSlim",
+      "texture": "glaceon.png",
+      "type": "free"
+    },
+   {
+      "localization_name": "espeon",
+      "geometry":
+      "geometry.humanoid.customSlim",
+      "texture": "espeon.png",
+      "type": "free"
+    },
+   {
+      "localization_name": "flareon",
+      "geometry":
+      "geometry.humanoid.customSlim",
+      "texture": "flareon.png",
+      "type": "free"
+    },
+	   {
+      "localization_name": "jolteon",
+      "geometry":
+      "geometry.humanoid.customSlim",
+      "texture": "jolteon.png",
+      "type": "free"
+    },
+	   {
+      "localization_name": "umbreon",
+      "geometry":
+      "geometry.humanoid.customSlim",
+      "texture": "umbreon.png",
+      "type": "free"
+    },
+	   {
+      "localization_name": "vaporeon",
+      "geometry":
+      "geometry.humanoid.customSlim",
+      "texture": "vaporeon.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "eevee",
+  "localization_name": "eevee"
+}
+    
+    
+    
+    

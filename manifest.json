@@ -1,0 +1,23 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "Eevee-Lutions",
+        "uuid": "ca1ddc12-a5a1-4d42-8020-618a0230325b",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "a5285a68-017d-423b-9769-8837503bc5bb",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
