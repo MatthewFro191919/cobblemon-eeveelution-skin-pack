@@ -4,64 +4,127 @@
 	{
       "localization_name": "eevee",
       "geometry":
-      "geometry.humanoid.customSlim",
+      "geometry.eevee",
       "texture": "eevee.png",
       "type": "free"
     },
     {
       "localization_name": "sylveon",
       "geometry":
-      "geometry.humanoid.customSlim",
+      "geometry.sylveon",
       "texture": "sylveon.png",
       "type": "free"
     },
 	{
       "localization_name": "leafeon",
       "geometry":
-      "geometry.humanoid.customSlim",
+      "geometry.leafeon",
       "texture": "leafeon.png",
       "type": "free"
     },
    {
       "localization_name": "glaceon",
       "geometry":
-      "geometry.humanoid.customSlim",
+      "geometry.glaceon",
       "texture": "glaceon.png",
       "type": "free"
     },
    {
       "localization_name": "espeon",
       "geometry":
-      "geometry.humanoid.customSlim",
+      "geometry.espeon",
       "texture": "espeon.png",
       "type": "free"
     },
    {
       "localization_name": "flareon",
       "geometry":
-      "geometry.humanoid.customSlim",
+      "geometry.flareon",
       "texture": "flareon.png",
       "type": "free"
     },
 	   {
       "localization_name": "jolteon",
       "geometry":
-      "geometry.humanoid.customSlim",
+      "geometry.jolteon",
       "texture": "jolteon.png",
       "type": "free"
     },
 	   {
       "localization_name": "umbreon",
       "geometry":
-      "geometry.humanoid.customSlim",
+      "geometry.umbreon",
       "texture": "umbreon.png",
       "type": "free"
     },
-	   {
+    {
       "localization_name": "vaporeon",
       "geometry":
-      "geometry.humanoid.customSlim",
+      "geometry.vaporeon",
       "texture": "vaporeon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "eevee shiny",
+      "geometry":
+      "geometry.eevee",
+      "texture": "eevee_shiny.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "sylveon shiny",
+      "geometry":
+      "geometry.sylveon",
+      "texture": "sylveon_shiny.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "leafeon shiny",
+      "geometry":
+      "geometry.leafeon",
+      "texture": "leafeon_shiny.png",
+      "type": "free"
+    },
+   {
+      "localization_name": "glaceon shiny",
+      "geometry":
+      "geometry.glaceon",
+      "texture": "glaceon_shiny.png",
+      "type": "free"
+    },
+   {
+      "localization_name": "espeon shiny",
+      "geometry":
+      "geometry.espeon",
+      "texture": "espeon_shiny.png",
+      "type": "free"
+    },
+   {
+      "localization_name": "flareon shiny",
+      "geometry":
+      "geometry.flareon",
+      "texture": "flareon_shiny.png",
+      "type": "free"
+    },
+	   {
+      "localization_name": "jolteon shiny",
+      "geometry":
+      "geometry.jolteon",
+      "texture": "jolteon_shiny.png",
+      "type": "free"
+    },
+	   {
+      "localization_name": "umbreon shiny",
+      "geometry":
+      "geometry.umbreon",
+      "texture": "umbreon_shiny.png",
+      "type": "free"
+    },
+	   {
+      "localization_name": "vaporeon shiny",
+      "geometry":
+      "geometry.vaporeon",
+      "texture": "vaporeon_shiny.png",
       "type": "free"
     }
   ],
